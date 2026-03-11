@@ -7,6 +7,7 @@ Release/
 *.pdb
 *.ilk
 *.log
+*.txt
 
 # Ignore user-specific Visual Studio files
 *.user
