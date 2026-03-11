@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# 🏦 ABC Bank Management System
 
 
@@ -845,6 +846,7 @@ This project is for educational purposes. Feel free to use, modify, and distribu
 
 
 \*Built as a demonstration of OOP principles in C++ — inheritance, polymorphism, encapsulation, composition, and aggregation — without relying on the C++ Standard Library containers.\*
+
 
 
 
