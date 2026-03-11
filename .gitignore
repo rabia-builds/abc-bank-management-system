@@ -1,0 +1,23 @@
+# Ignore build output
+[xX]64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# Ignore user-specific Visual Studio files
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Optionally ignore runtime data files
+transactions.txt
+users.txt
+cards.txt
+loan_requests.txt
+system_log.txt
+companies_employees.txt
