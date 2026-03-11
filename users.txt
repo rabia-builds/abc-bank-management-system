@@ -1,2 +1,0 @@
-1,abia,gujranawala askari 189,1234567890123,rabia,rabiaabc,54000,Gold,200000,1,0,5000,rabiaabc
-2,aryam,lahore,2345678909876,maryam,maryamabc,45000,Gold,400000,1,0,5000,maryamabc
