@@ -20,8 +20,6 @@ A fully functional, console-based Banking Management System built in C++ using c
 - Getting Started
 - Usage Guide
 - Security Features
-- Known Limitations
-- Future Improvements
 
 ---
 
