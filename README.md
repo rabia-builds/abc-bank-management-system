@@ -20,6 +20,7 @@ A fully functional, console-based Banking Management System built in C++ using c
 - Getting Started
 - Usage Guide
 - Security Features
+- Full Demo Link
 
 ---
 
@@ -339,6 +340,10 @@ Overflow protection — Balance is checked against LLONG_MAX before every deposi
 Freeze mechanism — Admin or automatic fraud detection can freeze any account instantly
 
 Activity logging — Every significant event is written to system_log.txt with date and user ID
+
+---
+### Full Demo Link
+🎬 [Watch the 3-minute demo](https://drive.google.com/file/d/1bZ5xB2SoHkUQNQcswmKsk3k4v3QgC2_3/view?usp=sharing)
 
 ---
 
